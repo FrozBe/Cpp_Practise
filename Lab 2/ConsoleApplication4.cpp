@@ -44,15 +44,7 @@ int main() {
 	cout << endl;
 	
 
-	//int imin = 0;
 
-/*	for (int i = 1; i < n; ++i) {
-		if (abs(list[i]) < abs(list[imin])) {
-			imin = i;
-		}
-		
-	}
-	cout << "min abs element is " << imin;*/
 
 	int lust_nul = -1;
 	for (int i = n; i > 0; i--) {
